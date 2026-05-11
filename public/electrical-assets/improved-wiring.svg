@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Improved Wiring</title>
+  <desc id="desc">Clean electrical wiring safely routed through conduit after repair.</desc>
+  <rect width="900" height="560" fill="#F5F7FA"/>
+  <rect x="95" y="135" width="710" height="292" rx="22" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="5"/>
+  <path d="M145 218H755M145 282H755M145 346H755" stroke="#123C63" stroke-width="22" stroke-linecap="round"/>
+  <path d="M145 218H755M145 282H755M145 346H755" stroke="#FFC107" stroke-width="6" stroke-linecap="round" stroke-dasharray="34 28"/>
+  <g fill="#F59E0B" stroke="#123C63" stroke-width="5">
+    <circle cx="195" cy="218" r="24"/>
+    <circle cx="705" cy="218" r="24"/>
+    <circle cx="195" cy="346" r="24"/>
+    <circle cx="705" cy="346" r="24"/>
+  </g>
+  <rect x="390" y="178" width="120" height="208" rx="16" fill="#123C63"/>
+  <rect x="416" y="210" width="68" height="34" rx="7" fill="#FFC107"/>
+  <rect x="416" y="264" width="68" height="34" rx="7" fill="#FFC107"/>
+  <rect x="416" y="318" width="68" height="34" rx="7" fill="#FFC107"/>
+</svg>

@@ -4,12 +4,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        brand: "#123c63",
+        brand: "#123C63",
+        yellow: "#FFC107",
+        cta: "#F59E0B",
         success: "#147a14",
         successBright: "#1cbf1b",
         info: "#5bc0de",
-        paper: "#f7f7f7",
-        ink: "#101018"
+        paper: "#F5F7FA",
+        ink: "#1F2933"
       },
       fontFamily: {
         sans: ["Inter", "system-ui", "Segoe UI", "Arial", "sans-serif"]
@@ -19,8 +21,8 @@ export default {
       },
       keyframes: {
         ringPulse: {
-          "0%, 100%": { boxShadow: "0 0 0 0 rgba(28, 191, 27, 0.45)" },
-          "50%": { boxShadow: "0 0 0 14px rgba(28, 191, 27, 0)" }
+          "0%, 100%": { boxShadow: "0 0 0 0 rgba(245, 158, 11, 0.45)" },
+          "50%": { boxShadow: "0 0 0 14px rgba(245, 158, 11, 0)" }
         }
       },
       animation: {

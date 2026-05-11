@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">Old Electrical Panel</title>
+  <desc id="desc">A dated electrical panel with worn breakers and aging wires.</desc>
+  <rect width="900" height="560" fill="#DDE3EA"/>
+  <rect x="180" y="70" width="540" height="420" rx="18" fill="#7D8792"/>
+  <rect x="215" y="105" width="470" height="350" rx="10" fill="#4B5563"/>
+  <g fill="#202A35">
+    <rect x="250" y="135" width="82" height="44" rx="5"/>
+    <rect x="360" y="135" width="82" height="44" rx="5"/>
+    <rect x="470" y="135" width="82" height="44" rx="5"/>
+    <rect x="580" y="135" width="62" height="44" rx="5"/>
+    <rect x="250" y="205" width="82" height="44" rx="5"/>
+    <rect x="360" y="205" width="82" height="44" rx="5"/>
+    <rect x="470" y="205" width="82" height="44" rx="5"/>
+    <rect x="580" y="205" width="62" height="44" rx="5"/>
+    <rect x="250" y="275" width="82" height="44" rx="5"/>
+    <rect x="360" y="275" width="82" height="44" rx="5"/>
+    <rect x="470" y="275" width="82" height="44" rx="5"/>
+    <rect x="580" y="275" width="62" height="44" rx="5"/>
+  </g>
+  <path d="M145 120c72 30 31 105 106 135M760 88c-95 55-44 135-140 196M142 410c64-28 103-4 136 52" fill="none" stroke="#8B3A2B" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="250" cy="255" r="12" fill="#FFC107"/>
+  <circle cx="620" cy="284" r="12" fill="#FFC107"/>
+  <rect x="0" y="430" width="900" height="130" fill="#123C63" opacity=".9"/>
+</svg>
