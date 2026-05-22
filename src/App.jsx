@@ -1,4 +1,5 @@
 import { useState } from "react";
+import TopBanner from "./components/TopBanner";
 import {
   AlertTriangle,
   BadgeCheck,
@@ -712,6 +713,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-paper pb-20 font-sans text-ink sm:pb-0">
+      <TopBanner />
       <Header />
       <main>
         <Hero />
