@@ -25,9 +25,9 @@ import {
   X
 } from "lucide-react";
 
-const phone = "(555) 018-2400";
-const phoneHref = "tel:+15550182400";
-const email = "service@voltguardelectric.com";
+const phone = "Telephone Number";
+const phoneHref = "#";
+const email = "reachout@bigroostech.com";
 
 const navLinks = [
   ["Services", "#services"],
